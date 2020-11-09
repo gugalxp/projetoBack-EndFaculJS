@@ -18,6 +18,7 @@
   "homepage": "https://github.com/gugalxp/Primeiro-Projeto-Usuario#readme",
   "dependencies": {
     "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "http-status": "^1.4.2",
     "mysql2": "^2.1.0",
