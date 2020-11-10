@@ -1,0 +1,27 @@
+{
+  "name": "cliente-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gugalxp/Cliente-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gugalxp/Cliente-backend/issues"
+  },
+  "homepage": "https://github.com/gugalxp/Cliente-backend#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "http-status": "^1.4.2",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.3.5"
+  }
+}
